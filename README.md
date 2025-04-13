@@ -23,7 +23,7 @@
   Passionate about designing interactive and enjoyable gaming experiences using Unity and C#, with a focus on mechanics, aesthetics, and player engagement.
 
 - **🌐 Web / App Development**  
-  Developing responsive and scalable web and mobile applications using modern frameworks and tools like React, Next.js, Firebase, and Android — focusing on functionality and user-friendly design.
+  Developing responsive and scalable web and mobile applications using modern frameworks and tools like React, Next.js, Firebase, and Flutter — focusing on functionality and user-friendly design.
 
 ---
 
@@ -31,8 +31,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="android logo" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
@@ -47,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
 </div>
 
 ---
